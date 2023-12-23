@@ -17,13 +17,12 @@
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 18,
-  "workbench.activityBar.visible": true,
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
   "rest-client.environmentVariables": {
     "openai": {
-      "key": "SHA256:jgFhiWM8Hw3Iuy+Ne1KQAjDerCp/R5iZ/u7rI9AdufQ"
+      "key": "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"
     }
   }
 }
